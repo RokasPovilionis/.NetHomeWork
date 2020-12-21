@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c99jsprBUs4L/jJK+JB4NE2MbB4vcmqB/++UaHlYDeRc/pyzRFPiXNPbO3uzvz0Ut8857d6vH/Uw2BQ9o97q+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rokce\\source\\repos\\LOTR_app\\Provider\\Provider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rokce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rokce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rokce\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
