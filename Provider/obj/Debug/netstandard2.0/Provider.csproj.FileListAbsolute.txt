@@ -1,9 +1,0 @@
-C:\Users\rokce\source\repos\LOTR_app\Provider\obj\Debug\netstandard2.0\Provider.csprojAssemblyReference.cache
-C:\Users\rokce\source\repos\LOTR_app\Provider\obj\Debug\netstandard2.0\Provider.AssemblyInfoInputs.cache
-C:\Users\rokce\source\repos\LOTR_app\Provider\obj\Debug\netstandard2.0\Provider.AssemblyInfo.cs
-C:\Users\rokce\source\repos\LOTR_app\Provider\obj\Debug\netstandard2.0\Provider.csproj.CoreCompileInputs.cache
-C:\Users\rokce\source\repos\LOTR_app\Provider\bin\Debug\netstandard2.0\Provider.deps.json
-C:\Users\rokce\source\repos\LOTR_app\Provider\bin\Debug\netstandard2.0\Provider.dll
-C:\Users\rokce\source\repos\LOTR_app\Provider\bin\Debug\netstandard2.0\Provider.pdb
-C:\Users\rokce\source\repos\LOTR_app\Provider\obj\Debug\netstandard2.0\Provider.dll
-C:\Users\rokce\source\repos\LOTR_app\Provider\obj\Debug\netstandard2.0\Provider.pdb
